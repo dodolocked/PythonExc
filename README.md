@@ -1,0 +1,2 @@
+# PythonExc
+调用python解释器对py脚本进行解释的一体化操作
